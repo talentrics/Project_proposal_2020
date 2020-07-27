@@ -21,7 +21,9 @@ An alternative to the traditional approach is to tap into non-traditional market
 
 The core idea is to match potential job seekers with open requisitions by overlapping a few data sources and applying Machine Learning best practices.  The matching process would source data for refugees and job providers to help find job opportunities, match candidates.  It will require techniques that employe big data 'harvesting' from online sources, apply natural language processing methods such as skills ontology, and provide employers with a short list of candidates.
 
- - jobs data
+ - The Open Skills Project http://dataatwork.org/data/
+ The Open Skills Project is a public-private partnership lead by the University of Chicago focused on providing a dynamic, up-to-date, locally-relevant, and normalized taxonomy of skills and jobs that builds on and expands on the Department of Labor’s ONet Data Resources.  Link to initial investigation of the data source can be found here: https://github.com/talentrics/Project_proposal_2020/blob/master/Open_Skills_Jobs_API.ipynb
+ 
  - refugees with skills
  - Ontology
  - UNHR
