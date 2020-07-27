@@ -1,6 +1,7 @@
 # Project_proposal_2020
 
-# "Talent Beyond Boundaries" - a skills based approach to hire diverse talent
+# "Talent Beyond Boundaries"
+A skills based approach to hire diverse talent and drive business value.
 A project proposal for the application of data science for social good.
 
 # What is the business need?
