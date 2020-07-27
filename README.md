@@ -2,7 +2,9 @@
 
 # "Talent Beyond Boundaries"
 A skills based approach to hire diverse talent and drive business value.  
-A project proposal for the application of data science for social good.
+A project proposal for the application of data science for social good.  
+Author: Daniel Macdonald @talentrics. 
+http://www.talentrics.com/
 
 # What is the business need?
 
