@@ -3,8 +3,7 @@
 # "Talent Beyond Boundaries"
 A skills based approach to hire diverse talent and drive business value.  
 A project proposal for the application of data science for social good.  
-Author: Daniel Macdonald @talentrics. 
-http://www.talentrics.com/
+Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 # What is the business need?
 
@@ -25,4 +24,6 @@ Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundarie
 
 # How would it work?
 
-Within this github repository is 
+Within this github repository is a number of different data sets.  Below is a description of each and a link to the relative folder.  Each data set helps with the matching process to match highly skilled individuals to open job roles.  The intention is to specifically target talent who may either be a refugee, or who have a digital profile that suggests they are committed to the refugee experience - they may be able to help raise awareness of opportunities through their social connections.  The matching process would use a combination of data science driven methods to find job opportunities, find candidates, and use natural language processing methods, such as skills ontology, to pair people who have related skills to the jobs that require them.  The process places an emphasis on finding diverse talent who may be impacted by the recent spike in forced global migration.
+
+
