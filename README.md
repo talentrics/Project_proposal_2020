@@ -21,11 +21,15 @@ An alternative to the traditional approach is to tap into non-traditional market
 
 The core idea is to match potential job seekers with open requisitions by overlapping a few data sources and applying Machine Learning best practices.  The matching process would source data for refugees and job providers to help find job opportunities, match candidates.  It will require techniques that employe big data 'harvesting' from online sources, apply natural language processing methods such as skills ontology, and provide employers with a short list of candidates.
 
+# data sources and initial EDA
+
  - The Open Skills Project http://dataatwork.org/data/
  The Open Skills Project is a public-private partnership lead by the University of Chicago focused on providing a dynamic, up-to-date, locally-relevant, and normalized taxonomy of skills and jobs that builds on and expands on the Department of Labor’s ONet Data Resources.  Link to initial investigation of the data source can be found here: https://github.com/talentrics/Project_proposal_2020/blob/master/Open_Skills_Jobs_API.ipynb
  
+ - Job Data https://blog.thedataincubator.com/tag/data-sources/
+ As part of the 'Data Incubator' data sources, I downloaded an example file of the Job Postings data set for all NYSE and Nasdaq stocks.
+ The file is one of seven that are available, and is 25GB, so manipulating this data will require big data management skills.  I have posted my initial investigation of the source here: 
  - refugees with skills
- - Ontology
  - UNHR
 
 
