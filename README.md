@@ -29,6 +29,8 @@ The core idea is to match potential job seekers with open requisitions by overla
  - Job Data https://blog.thedataincubator.com/tag/data-sources/
  As part of the 'Data Incubator' data sources, I downloaded an example file of the Job Postings data set for all NYSE and Nasdaq stocks.
  The file is one of seven that are available, and is 25GB, so manipulating this data will require big data management skills.  I have posted my initial investigation of the source here: 
+ https://github.com/talentrics/Project_proposal_2020/blob/master/datalab_jobs.ipynb
+ 
  - refugees with skills
  - UNHR
 
