@@ -35,7 +35,6 @@ Year,Country of asylum,Country of asylum (ISO),Region,sub-region,Female_workingA
 2019,Dominican Rep.,DOM,Americas,Latin America and the Caribbean,13229,11048,24277
 2019,Eritrea,ERI,Africa,Sub-Saharan Africa,36,58,94
 2019,Ethiopia,ETH,Africa,Sub-Saharan Africa,157826,107968,265794
-2019,Fiji,FJI,Oceania,Melanesia,22,0,22
 2019,Finland,FIN,Europe,Northern Europe,0,0,0
 2019,France,FRA,Europe,Western Europe,0,0,0
 2019,Gabon,GAB,Africa,Sub-Saharan Africa,170,202,372
@@ -90,11 +89,9 @@ Year,Country of asylum,Country of asylum (ISO),Region,sub-region,Female_workingA
 2019,Niger,NER,Africa,Sub-Saharan Africa,75879,60687,136566
 2019,Nicaragua,NIC,Americas,Latin America and the Caribbean,367,292,659
 2019,Nigeria,NGA,Africa,Sub-Saharan Africa,14277,11357,25634
-2019,Nauru,NRU,Oceania,Micronesia,302,634,936
 2019,Oman,OMN,Asia,Western Asia,172,179,351
 2019,Pakistan,PAK,Asia,Southern Asia,337671,402471,740142
 2019,Philippines,PHL,Asia,South-eastern Asia,324,722,1046
-2019,Papua New Guinea,PNG,Oceania,Melanesia,0,462,462
 2019,Poland,POL,Europe,Eastern Europe,269,259,528
 2019,Portugal,PRT,Europe,Southern Europe,0,0,0
 2019,Qatar,QAT,Asia,Western Asia,103,89,192
