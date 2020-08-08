@@ -17,6 +17,8 @@ https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work
 
 An alternative to the traditional approach is to tap into non-traditional markets for talent - to actively seek out people with the required skills and capabilities who may have a high incentive to say yes.  Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) are startups that represent the growing trend in refugee placement, and the potential to be using best practices in job matching and artificial intelligence to drive career mobility that reverses the trend in the refugee experience.  This project looks at how we might use a data driven approach to sourcing talent from un-tapped markets.
 
+![](images/EU_refugee_arrival_2020.png)
+
 # How would it work?
 
 The core idea is to match potential job seekers with open requisitions by overlapping a few data sources and applying Machine Learning best practices.  The matching process would source data for refugees and job providers to help find job opportunities, match candidates.  It will require techniques that employe big data 'harvesting' from online sources, apply natural language processing methods such as skills ontology, and provide employers with a short list of candidates.
