@@ -13,7 +13,7 @@ Here are a few examples of recent research on the topic:
 https://www2.deloitte.com/content/dam/Deloitte/us/Documents/human-capital/us-alternative-workforce.pdf
 https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/redefining-work-workforces-workplaces.html
 
-![](images/Project_overview.png)
+![](images/Project_overview_b.png)
 
 # What needs to be done about it?
 
