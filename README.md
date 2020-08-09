@@ -7,11 +7,7 @@ Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 # What is the business need?
 
-One of the most important Talent Management trends in 2010 is a strategic approach 'Diversity and Inclusion'.  Current research indicates that businesses who strategically source diverse talent and adapt to macro-econnomic trends such as: globalization, technology, remote work, flexible 'gig' work arrangements will outperform the market and drive innovation.  They will also likely need to invest less to retain and engage their talent over the long term.
-
-Here are a few examples of recent research on the topic:
-https://www2.deloitte.com/content/dam/Deloitte/us/Documents/human-capital/us-alternative-workforce.pdf
-https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/redefining-work-workforces-workplaces.html
+One of the most important Talent Management trends in 2020 is a strategic approach 'Diversity and Inclusion'.  Current research indicates that businesses who strategically source diverse talent and adapt to macro-econnomic trends such as: globalization, technology, remote work, flexible 'gig' work arrangements will outperform the market and drive innovation.
 
 ![](images/Project_overview_b.png)
 
