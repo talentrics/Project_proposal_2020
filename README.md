@@ -3,7 +3,7 @@
 # A data based approach to hire diverse refugee talent  
 Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
-Current trends in strategic talent Management suggest that businesses who build a diverse workforce by embracing trends in globalization, technology, remote work, and flexible work assignments will have an advantage.  As a result, the growing practice of 'People Analytics' is working to apply machine learning to find highly skilled professionals within previously un-discovered pockets of talent. (Dikau & Hatfield 2020)
+Current trends in strategic talent Management suggest that businesses who seek to build a diverse workforce need to embrace trends in globalization, technology, and remote work.  As a result, the growing practice of 'People Analytics' is developing tools to apply machine learning to search for highly skilled professionals in under-utilized pockets of talent. (Dikau & Hatfield 2020)
 
 ![](images/Project_overview_b.png)
 
