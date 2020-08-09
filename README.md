@@ -1,9 +1,7 @@
 # Project_proposal_2020
 
-# "Talent Beyond Boundaries"
-A skills based approach to hire diverse talent and drive business value.  
-A project proposal for the application of data science for social good.  
-Author: Daniel Macdonald @talentrics http://www.talentrics.com/
+A data based approach to hire diverse refugee talent and drive business value.  
+#Author:# Daniel Macdonald @talentrics http://www.talentrics.com/
 
 # What is the business need?
 
