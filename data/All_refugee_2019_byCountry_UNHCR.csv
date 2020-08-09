@@ -1,132 +1,132 @@
-Year,Country of asylum,Country of asylum (ISO),Region,sub-region,Female_workingAge,Male_workingAge,Total
+﻿Year,Country_asylum,Country_asylum_iso,Region,sub_region,Female_workingAge,Male_workingAge,Total
+2019,Turkey,TUR,Asia,Western Asia,878241,1123000,2001241
+2019,DR_of_Congo,COD,Africa,Sub-Saharan Africa,1061716,868522,1930238
+2019,Yemen,YEM,Asia,Western Asia,877422,861312,1738734
 2019,Afghanistan,AFG,Asia,Southern Asia,566050,566478,1132528
-2019,Albania,ALB,Europe,Southern Europe,520,685,1205
-2019,Algeria,DZA,Africa,Northern Africa,1912,4606,6518
-2019,Angola,AGO,Africa,Sub-Saharan Africa,1944,1856,3800
-2019,Egypt,EGY,Africa,Northern Africa,71507,75790,147297
-2019,Argentina,ARG,Americas,Latin America and the Caribbean,3266,4816,8082
-2019,Armenia,ARM,Asia,Western Asia,1527,1616,3143
-2019,Austria,AUT,Europe,Western Europe,0,0,0
-2019,Azerbaijan,AZE,Asia,Western Asia,290,520,810
-2019,Bahrain,BHR,Asia,Western Asia,113,105,218
-2019,Barbados,BRB,Americas,Latin America and the Caribbean,10,0,10
-2019,Burundi,BDI,Africa,Sub-Saharan Africa,38526,27255,65781
-2019,Benin,BEN,Africa,Sub-Saharan Africa,513,696,1209
+2019,Somalia,SOM,Africa,Sub-Saharan Africa,548170,484178,1032348
+2019,Germany,DEU,Europe,Western Europe,317869,643124,960993
+2019,Pakistan,PAK,Asia,Southern Asia,337671,402471,740142
+2019,Uganda,UGA,Africa,Sub-Saharan Africa,279457,230540,509997
+2019,Sudan,SDN,Africa,Northern Africa,256272,234817,491089
+2019,Cote_d'Ivoire,CIV,Africa,Sub-Saharan Africa,241182,159050,400232
+2019,Lebanon,LBN,Asia,Western Asia,221101,172396,393497
 2019,Bangladesh,BGD,Asia,Southern Asia,203384,162273,365657
-2019,Bahamas,BHS,Americas,Latin America and the Caribbean,10,10,20
-2019,Burkina Faso,BFA,Africa,Sub-Saharan Africa,116783,95303,212086
-2019,Belarus,BLR,Europe,Eastern Europe,61,100,161
-2019,Botswana,BWA,Africa,Sub-Saharan Africa,280,463,743
-2019,Bosnia and Herzegovina,BIH,Europe,Southern Europe,2198,2001,4199
-2019,Cambodia,KHM,Asia,South-eastern Asia,5,17,22
-2019,Central African Rep.,CAF,Africa,Sub-Saharan Africa,153076,144687,297763
-2019,Cayman Islands,CYM,Americas,Latin America and the Caribbean,0,0,0
+2019,Thailand,THA,Asia,South-eastern Asia,181204,179401,360605
+2019,Jordan,JOR,Asia,Western Asia,176169,180814,356983
+2019,Venezuela,VEN,Americas,Latin America and the Caribbean,181072,134516,315588
+2019,Cent_African_Rep,CAF,Africa,Sub-Saharan Africa,153076,144687,297763
 2019,Chad,TCD,Africa,Sub-Saharan Africa,184459,109807,294266
-2019,China,CHN,Asia,Eastern Asia,362,453,815
-2019,Chile,CHL,Americas,Latin America and the Caribbean,3627,3160,6787
-2019,Cameroon,CMR,Africa,Sub-Saharan Africa,93690,75979,169669
-2019,Congo,COG,Africa,Sub-Saharan Africa,10878,13020,23898
-2019,Dem. Rep. of the Congo,COD,Africa,Sub-Saharan Africa,1061716,868522,1930238
-2019,Colombia,COL,Americas,Latin America and the Caribbean,1209,1232,2441
-2019,Costa Rica,CRI,Americas,Latin America and the Caribbean,26,20,46
-2019,Cuba,CUB,Americas,Latin America and the Caribbean,51,192,243
-2019,Czechia,CZE,Europe,Eastern Europe,124,227,351
-2019,Djibouti,DJI,Africa,Sub-Saharan Africa,7379,8176,15555
-2019,Dominican Rep.,DOM,Americas,Latin America and the Caribbean,13229,11048,24277
-2019,Eritrea,ERI,Africa,Sub-Saharan Africa,36,58,94
 2019,Ethiopia,ETH,Africa,Sub-Saharan Africa,157826,107968,265794
+2019,Burkina Faso,BFA,Africa,Sub-Saharan Africa,116783,95303,212086
+2019,Kenya,KEN,Africa,Sub-Saharan Africa,105538,104141,209679
+2019,Cameroon,CMR,Africa,Sub-Saharan Africa,93690,75979,169669
+2019,Iraq,IRQ,Asia,Western Asia,73329,80312,153641
+2019,Georgia,GEO,Asia,Western Asia,79836,72550,152386
+2019,Egypt,EGY,Africa,Northern Africa,71507,75790,147297
+2019,Niger,NER,Africa,Sub-Saharan Africa,75879,60687,136566
+2019,Malaysia,MYS,Asia,South-eastern Asia,34784,96885,131669
+2019,United Rep. of Tanzania,TZA,Africa,Sub-Saharan Africa,62299,59760,122059
+2019,Myanmar,MMR,Asia,South-eastern Asia,66081,55334,121415
+2019,South Sudan,SSD,Africa,Sub-Saharan Africa,61774,46750,108524
+2019,Rwanda,RWA,Africa,Sub-Saharan Africa,36173,33925,70098
+2019,Burundi,BDI,Africa,Sub-Saharan Africa,38526,27255,65781
+2019,Mexico,MEX,Americas,Latin America and the Caribbean,19942,30954,50896
+2019,Zambia,ZMB,Africa,Sub-Saharan Africa,17834,23281,41115
+2019,Switzerland,CHE,Europe,Western Europe,14607,25362,39969
+2019,Libya,LBY,Africa,Northern Africa,9782,18739,28521
+2019,Nigeria,NGA,Africa,Sub-Saharan Africa,14277,11357,25634
+2019,Dominican_Rep,DOM,Americas,Latin America and the Caribbean,13229,11048,24277
+2019,Congo,COG,Africa,Sub-Saharan Africa,10878,13020,23898
+2019,Mauritania,MRT,Africa,Sub-Saharan Africa,13474,9875,23349
+2019,India,IND,Asia,Southern Asia,10466,11980,22446
+2019,Malawi,MWI,Africa,Sub-Saharan Africa,8930,12581,21511
+2019,Mozambique,MOZ,Africa,Sub-Saharan Africa,5630,11716,17346
+2019,Nepal,NPL,Asia,Southern Asia,8870,8187,17057
+2019,Djibouti,DJI,Africa,Sub-Saharan Africa,7379,8176,15555
+2019,Uruguay,URY,Americas,Latin America and the Caribbean,4398,8722,13120
+2019,Syria,SYR,Asia,Western Asia,6911,5923,12834
+2019,Mali,MLI,Africa,Sub-Saharan Africa,6177,5793,11970
+2019,Ireland,IRL,Europe,Northern Europe,3734,6793,10527
+2019,Indonesia,IDN,Asia,South-eastern Asia,2487,7058,9545
+2019,Montenegro,MNE,Europe,Southern Europe,4199,4648,8847
+2019,Ghana,GHA,Africa,Sub-Saharan Africa,3788,4706,8494
+2019,Argentina,ARG,Americas,Latin America and the Caribbean,3266,4816,8082
+2019,Senegal,SEN,Africa,Sub-Saharan Africa,3803,3921,7724
+2019,Serbia_Kosovo,SRB,Europe,Southern Europe,3169,4376,7545
+2019,Zimbabwe,ZWE,Africa,Sub-Saharan Africa,3057,3934,6991
+2019,Chile,CHL,Americas,Latin America and the Caribbean,3627,3160,6787
+2019,Morocco,MAR,Africa,Northern Africa,2115,4610,6725
+2019,Algeria,DZA,Africa,Northern Africa,1912,4606,6518
+2019,Croatia,HRV,Europe,Southern Europe,2652,3382,6034
+2019,Togo,TGO,Africa,Sub-Saharan Africa,3009,1880,4889
+2019,United_Arab_Emirates,ARE,Asia,Western Asia,2232,2228,4460
+2019,Bosnia,BIH,Europe,Southern Europe,2198,2001,4199
+2019,Liberia,LBR,Africa,Sub-Saharan Africa,1831,2053,3884
+2019,Guinea,GIN,Africa,Sub-Saharan Africa,1836,2007,3843
+2019,Angola,AGO,Africa,Sub-Saharan Africa,1944,1856,3800
+2019,Tajikistan,TJK,Asia,Central Asia,2719,764,3483
+2019,Armenia,ARM,Asia,Western Asia,1527,1616,3143
+2019,Ukraine,UKR,Europe,Eastern Europe,713,2295,3008
+2019,Romania,ROU,Europe,Eastern Europe,928,1934,2862
+2019,Namibia,NAM,Africa,Sub-Saharan Africa,1062,1694,2756
+2019,Colombia,COL,Americas,Latin America and the Caribbean,1209,1232,2441
+2019,Tunisia,TUN,Africa,Northern Africa,771,1551,2322
+2019,Gambia,GMB,Africa,Sub-Saharan Africa,1184,979,2163
+2019,Malta,MLT,Europe,Southern Europe,150,1924,2074
+2019,Moldova,MDA,Europe,Eastern Europe,991,902,1893
+2019,Eswatini,SWZ,Africa,Sub-Saharan Africa,430,911,1341
+2019,Saudi_Arabia,SAU,Asia,Western Asia,642,648,1290
+2019,Benin,BEN,Africa,Sub-Saharan Africa,513,696,1209
+2019,Albania,ALB,Europe,Southern Europe,520,685,1205
+2019,Kuwait,KWT,Asia,Western Asia,615,552,1167
+2019,Philippines,PHL,Asia,South-eastern Asia,324,722,1046
+2019,Sri_Lanka,LKA,Asia,Southern Asia,337,597,934
+2019,China,CHN,Asia,Eastern Asia,362,453,815
+2019,Azerbaijan,AZE,Asia,Western Asia,290,520,810
+2019,Guinea_Bissau,GNB,Africa,Sub-Saharan Africa,449,342,791
+2019,Botswana,BWA,Africa,Sub-Saharan Africa,280,463,743
+2019,Nicaragua,NIC,Americas,Latin America and the Caribbean,367,292,659
+2019,North_Macedonia,MKD,Europe,Southern Europe,295,308,603
+2019,Poland,POL,Europe,Eastern Europe,269,259,528
+2019,Kazakhstan,KAZ,Asia,Central Asia,196,269,465
+2019,Kyrgyzstan,KGZ,Asia,Central Asia,193,197,390
+2019,Gabon,GAB,Africa,Sub-Saharan Africa,170,202,372
+2019,Czechia,CZE,Europe,Eastern Europe,124,227,351
+2019,Oman,OMN,Asia,Western Asia,172,179,351
+2019,Cuba,CUB,Americas,Latin America and the Caribbean,51,192,243
+2019,Sierra_Leone,SLE,Africa,Sub-Saharan Africa,141,98,239
+2019,Bahrain,BHR,Asia,Western Asia,113,105,218
+2019,Qatar,QAT,Asia,Western Asia,103,89,192
+2019,Madagascar,MDG,Africa,Sub-Saharan Africa,69,111,180
+2019,Belarus,BLR,Europe,Eastern Europe,61,100,161
+2019,Lesotho,LSO,Africa,Sub-Saharan Africa,63,84,147
+2019,China,HKG,Asia,Eastern Asia,52,55,107
+2019,Eritrea,ERI,Africa,Sub-Saharan Africa,36,58,94
+2019,El Salvador,SLV,Americas,Latin America and the Caribbean,25,38,63
+2019,Liechtenstein,LIE,Europe,Western Europe,30,21,51
+2019,Costa Rica,CRI,Americas,Latin America and the Caribbean,26,20,46
+2019,Iran,IRN,Asia,Southern Asia,18,13,31
+2019,Cambodia,KHM,Asia,South-eastern Asia,5,17,22
+2019,Turkmenistan,TKM,Asia,Central Asia,13,8,21
+2019,Bahamas,BHS,Americas,Latin America and the Caribbean,10,10,20
+2019,Uzbekistan,UZB,Asia,Central Asia,5,8,13
+2019,Mauritius,MUS,Africa,Sub-Saharan Africa,7,5,12
+2019,Barbados,BRB,Americas,Latin America and the Caribbean,10,0,10
+2019,Mongolia,MNG,Asia,Eastern Asia,5,5,10
+2019,Sint Maarten,SXM,Americas,Latin America and the Caribbean,5,5,10
+2019,Haiti,HTI,Americas,Latin America and the Caribbean,0,5,5
+2019,Saint_Kitts,KNA,Americas,Latin America and the Caribbean,0,5,5
+2019,Slovenia,SVN,Europe,Southern Europe,0,5,5
+2019,Turks_Caicos,TCA,Americas,Latin America and the Caribbean,5,0,5
+2019,Austria,AUT,Europe,Western Europe,0,0,0
+2019,Cayman Islands,CYM,Americas,Latin America and the Caribbean,0,0,0
 2019,Finland,FIN,Europe,Northern Europe,0,0,0
 2019,France,FRA,Europe,Western Europe,0,0,0
-2019,Gabon,GAB,Africa,Sub-Saharan Africa,170,202,372
-2019,Gambia,GMB,Africa,Sub-Saharan Africa,1184,979,2163
-2019,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Northern Europe,0,0,0
-2019,Georgia,GEO,Asia,Western Asia,79836,72550,152386
-2019,Germany,DEU,Europe,Western Europe,317869,643124,960993
-2019,Ghana,GHA,Africa,Sub-Saharan Africa,3788,4706,8494
-2019,Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,449,342,791
+2019,United_Kingdom,GBR,Europe,Northern Europe,0,0,0
 2019,Greece,GRC,Europe,Southern Europe,0,0,0
-2019,Guinea,GIN,Africa,Sub-Saharan Africa,1836,2007,3843
-2019,Haiti,HTI,Americas,Latin America and the Caribbean,0,5,5
-2019,"China, Hong Kong SAR",HKG,Asia,Eastern Asia,52,55,107
 2019,Honduras,HND,Americas,Latin America and the Caribbean,0,0,0
-2019,Croatia,HRV,Europe,Southern Europe,2652,3382,6034
 2019,Hungary,HUN,Europe,Eastern Europe,0,0,0
-2019,Cote d'Ivoire,CIV,Africa,Sub-Saharan Africa,241182,159050,400232
-2019,India,IND,Asia,Southern Asia,10466,11980,22446
-2019,Indonesia,IDN,Asia,South-eastern Asia,2487,7058,9545
-2019,Ireland,IRL,Europe,Northern Europe,3734,6793,10527
-2019,Iran (Islamic Rep. of),IRN,Asia,Southern Asia,18,13,31
-2019,Iraq,IRQ,Asia,Western Asia,73329,80312,153641
-2019,Jordan,JOR,Asia,Western Asia,176169,180814,356983
-2019,Kazakhstan,KAZ,Asia,Central Asia,196,269,465
-2019,Kenya,KEN,Africa,Sub-Saharan Africa,105538,104141,209679
-2019,Kyrgyzstan,KGZ,Asia,Central Asia,193,197,390
-2019,Kuwait,KWT,Asia,Western Asia,615,552,1167
-2019,Liberia,LBR,Africa,Sub-Saharan Africa,1831,2053,3884
-2019,Libya,LBY,Africa,Northern Africa,9782,18739,28521
-2019,Lebanon,LBN,Asia,Western Asia,221101,172396,393497
-2019,Lesotho,LSO,Africa,Sub-Saharan Africa,63,84,147
-2019,Liechtenstein,LIE,Europe,Western Europe,30,21,51
-2019,Sri Lanka,LKA,Asia,Southern Asia,337,597,934
-2019,Madagascar,MDG,Africa,Sub-Saharan Africa,69,111,180
-2019,Mauritania,MRT,Africa,Sub-Saharan Africa,13474,9875,23349
-2019,North Macedonia,MKD,Europe,Southern Europe,295,308,603
-2019,Rep. of Moldova,MDA,Europe,Eastern Europe,991,902,1893
-2019,Mexico,MEX,Americas,Latin America and the Caribbean,19942,30954,50896
-2019,Mali,MLI,Africa,Sub-Saharan Africa,6177,5793,11970
-2019,Malaysia,MYS,Asia,South-eastern Asia,34784,96885,131669
-2019,Malawi,MWI,Africa,Sub-Saharan Africa,8930,12581,21511
-2019,Mongolia,MNG,Asia,Eastern Asia,5,5,10
-2019,Morocco,MAR,Africa,Northern Africa,2115,4610,6725
-2019,Mozambique,MOZ,Africa,Sub-Saharan Africa,5630,11716,17346
-2019,Malta,MLT,Europe,Southern Europe,150,1924,2074
-2019,Montenegro,MNE,Europe,Southern Europe,4199,4648,8847
-2019,Mauritius,MUS,Africa,Sub-Saharan Africa,7,5,12
-2019,Myanmar,MMR,Asia,South-eastern Asia,66081,55334,121415
-2019,Namibia,NAM,Africa,Sub-Saharan Africa,1062,1694,2756
-2019,Nepal,NPL,Asia,Southern Asia,8870,8187,17057
 2019,Netherlands,NLD,Europe,Western Europe,0,0,0
-2019,Niger,NER,Africa,Sub-Saharan Africa,75879,60687,136566
-2019,Nicaragua,NIC,Americas,Latin America and the Caribbean,367,292,659
-2019,Nigeria,NGA,Africa,Sub-Saharan Africa,14277,11357,25634
-2019,Oman,OMN,Asia,Western Asia,172,179,351
-2019,Pakistan,PAK,Asia,Southern Asia,337671,402471,740142
-2019,Philippines,PHL,Asia,South-eastern Asia,324,722,1046
-2019,Poland,POL,Europe,Eastern Europe,269,259,528
 2019,Portugal,PRT,Europe,Southern Europe,0,0,0
-2019,Qatar,QAT,Asia,Western Asia,103,89,192
-2019,Romania,ROU,Europe,Eastern Europe,928,1934,2862
-2019,Rwanda,RWA,Africa,Sub-Saharan Africa,36173,33925,70098
-2019,El Salvador,SLV,Americas,Latin America and the Caribbean,25,38,63
-2019,Saudi Arabia,SAU,Asia,Western Asia,642,648,1290
-2019,Serbia and Kosovo: S/RES/1244 (1999),SRB,Europe,Southern Europe,3169,4376,7545
-2019,Senegal,SEN,Africa,Sub-Saharan Africa,3803,3921,7724
-2019,Sierra Leone,SLE,Africa,Sub-Saharan Africa,141,98,239
-2019,Somalia,SOM,Africa,Sub-Saharan Africa,548170,484178,1032348
 2019,Spain,ESP,Europe,Southern Europe,0,0,0
-2019,Saint Kitts and Nevis,KNA,Americas,Latin America and the Caribbean,0,5,5
-2019,Sudan,SDN,Africa,Northern Africa,256272,234817,491089
-2019,South Sudan,SSD,Africa,Sub-Saharan Africa,61774,46750,108524
-2019,Slovenia,SVN,Europe,Southern Europe,0,5,5
-2019,Eswatini,SWZ,Africa,Sub-Saharan Africa,430,911,1341
 2019,Sweden,SWE,Europe,Northern Europe,0,0,0
-2019,Switzerland,CHE,Europe,Western Europe,14607,25362,39969
-2019,Syrian Arab Rep.,SYR,Asia,Western Asia,6911,5923,12834
-2019,United Rep. of Tanzania,TZA,Africa,Sub-Saharan Africa,62299,59760,122059
-2019,Turks and Caicos Islands,TCA,Americas,Latin America and the Caribbean,5,0,5
-2019,Thailand,THA,Asia,South-eastern Asia,181204,179401,360605
-2019,Tajikistan,TJK,Asia,Central Asia,2719,764,3483
-2019,Turkmenistan,TKM,Asia,Central Asia,13,8,21
-2019,Togo,TGO,Africa,Sub-Saharan Africa,3009,1880,4889
-2019,Tunisia,TUN,Africa,Northern Africa,771,1551,2322
-2019,Turkey,TUR,Asia,Western Asia,878241,1123000,2001241
-2019,United Arab Emirates,ARE,Asia,Western Asia,2232,2228,4460
-2019,Uganda,UGA,Africa,Sub-Saharan Africa,279457,230540,509997
-2019,Ukraine,UKR,Europe,Eastern Europe,713,2295,3008
-2019,Uruguay,URY,Americas,Latin America and the Caribbean,4398,8722,13120
-2019,Uzbekistan,UZB,Asia,Central Asia,5,8,13
-2019,Venezuela (Bolivarian Republic of),VEN,Americas,Latin America and the Caribbean,181072,134516,315588
-2019,Yemen,YEM,Asia,Western Asia,877422,861312,1738734
-2019,Zambia,ZMB,Africa,Sub-Saharan Africa,17834,23281,41115
-2019,Zimbabwe,ZWE,Africa,Sub-Saharan Africa,3057,3934,6991
-2019,Sint Maarten (Dutch part),SXM,Americas,Latin America and the Caribbean,5,5,10
