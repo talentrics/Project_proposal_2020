@@ -7,9 +7,7 @@ Current trends in strategic talent Management suggest that businesses who seek t
 
 # How would it work?
 
-An alternative to the traditional approach is to tap into non-traditional markets for talent - to actively seek out people with the required skills and capabilities who may have a high incentive to say yes.  The core idea is to match potential job seekers with open requisitions by overlapping a few data sources and applying Machine Learning best practices.  The matching process would source data for refugees and job providers to help find job opportunities, match candidates.  
-
-Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) are startups that represent the growing trend in refugee placement, and the potential to be using best practices in job matching and artificial intelligence to drive career mobility that reverses the trend in the refugee experience.  This project looks at how we might use a data driven approach to sourcing talent from un-tapped markets.
+The proposed approach is to tap into non-traditional markets for talent sourcing, such as refugee populations.  Similar to a job matching algorithms being used currently, the recommendation is to specifically reference databases that are curated for skilled refugee talent, or use social media to identify communities of skilled professionals who self identify as being refugees.  Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) have already begun to source candidate information.  This project will seek to expand on their methods and develop a more robust job matching engine.
 
 ![](images/Method_scope.png)
 https://www.unhcr.org
