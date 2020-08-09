@@ -3,18 +3,17 @@ Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 Current trends in strategic talent Management suggest that businesses who seek to build a diverse workforce need to actively embrace trends in globalization, technology, and a de-centralized workforce.  As a result, the growing practice of 'People Analytics' is developing tools that apply machine learning to search for highly skilled professionals in under-utilized pockets of talent. (Dikau & Hatfield 2020)
 
-![](images/Project_overview_b.png)
-
-# What needs to be done about it?
-
-An alternative to the traditional approach is to tap into non-traditional markets for talent - to actively seek out people with the required skills and capabilities who may have a high incentive to say yes.  Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) are startups that represent the growing trend in refugee placement, and the potential to be using best practices in job matching and artificial intelligence to drive career mobility that reverses the trend in the refugee experience.  This project looks at how we might use a data driven approach to sourcing talent from un-tapped markets.
-
-![](images/EU_refugee_arrival_2020.png)
-https://www.unhcr.org
+![](images/Project_overview.png)
 
 # How would it work?
 
-The core idea is to match potential job seekers with open requisitions by overlapping a few data sources and applying Machine Learning best practices.  The matching process would source data for refugees and job providers to help find job opportunities, match candidates.  It will require techniques that employe big data 'harvesting' from online sources, apply natural language processing methods such as skills ontology, and provide employers with a short list of candidates.
+An alternative to the traditional approach is to tap into non-traditional markets for talent - to actively seek out people with the required skills and capabilities who may have a high incentive to say yes.  The core idea is to match potential job seekers with open requisitions by overlapping a few data sources and applying Machine Learning best practices.  The matching process would source data for refugees and job providers to help find job opportunities, match candidates.  
+
+Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) are startups that represent the growing trend in refugee placement, and the potential to be using best practices in job matching and artificial intelligence to drive career mobility that reverses the trend in the refugee experience.  This project looks at how we might use a data driven approach to sourcing talent from un-tapped markets.
+
+![](images/Method_scope.png)
+https://www.unhcr.org
+
 
 # data sources and initial EDA
 
