@@ -3,7 +3,7 @@ Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 Current trends in strategic talent Management suggest that businesses who seek to build a diverse workforce need to actively embrace trends in globalization, technology, and a de-centralized workforce.  As a result, the growing practice of 'People Analytics' is developing tools that apply machine learning to search for highly skilled professionals in under-utilized pockets of talent. (Dikau & Hatfield 2020)
 
-![](images/Project_Overview.png)
+![](images/Project_Overview_b.png)
 
 # What needs to be done about it?
 
