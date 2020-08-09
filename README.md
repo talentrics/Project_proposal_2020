@@ -1,11 +1,11 @@
 # Project_proposal_2020
 
 A data based approach to hire diverse refugee talent and drive business value.  
-# Author: Daniel Macdonald @talentrics http://www.talentrics.com/
+Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
-# What is the business need?
+# Overview
 
-One of the most important Talent Management trends in 2020 is a strategic approach 'Diversity and Inclusion'.  Current research indicates that businesses who strategically source diverse talent and adapt to macro-econnomic trends such as: globalization, technology, remote work, flexible 'gig' work arrangements will outperform the market and drive innovation.
+Talent Management trends require a strategic approach to build 'Diversity and Inclusion', and assume that businesses who adopt macro-econnomic trends such as: globalization, technology, remote work, & flexible work arrangements will outperform the market and drive innovation. (Dikau & Hatfield 2020)
 
 ![](images/Project_overview_b.png)
 
@@ -32,4 +32,7 @@ The core idea is to match potential job seekers with open requisitions by overla
  - refugees with skills
  - UNHR
 
+# Citations: 
 
+Dikau, D., & Hatfield, S. Deloitte Publishing (2020); "Creating Value and Impact through the Alternative Workforce"
+https://www2.deloitte.com/us/en/pages/human-capital/articles/alternative-workforce.html
