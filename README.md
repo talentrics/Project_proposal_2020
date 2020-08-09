@@ -7,7 +7,7 @@ Current trends in strategic talent Management suggest that businesses who seek t
 
 # How would it work?
 
-The proposed approach is to tap into non-traditional markets for talent sourcing, such as refugee populations.  Similar to a job matching algorithms being used currently, the recommendation is to specifically reference databases that are curated for skilled refugee talent, or use social media to identify communities of skilled professionals who self identify as being refugees.  Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) have already begun to source candidate information.  This project will seek to expand on their methods using social media and the OpenSkills Ontology approach to matching skills to job criteria.
+Similar to a job matching algorithms being used currently, the recommendation is to specifically reference databases that are curated for skilled refugee talent in addition to social media content and open source skills matching programs such as 'OpenSkills'.  Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) have already begun to source candidate information for the purposes of job placement.
 
 ![](images/Method_scope.png)
 https://www.unhcr.org
