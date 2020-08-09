@@ -1,7 +1,7 @@
 # Project_proposal_2020
 
 A data based approach to hire diverse refugee talent and drive business value.  
-#Author:# Daniel Macdonald @talentrics http://www.talentrics.com/
+# Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 # What is the business need?
 
