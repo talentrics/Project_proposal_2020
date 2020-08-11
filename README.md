@@ -3,7 +3,7 @@ Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 Research such as Deloitte's whitepaper 'Creating Value and Impact Through the Alternative Workforce' point to 21st market shifts such as rapidly developing technology, market globalization and the need for agile workforce strategies as strategic imperative for businesses to optmize their performance as well as meet social obligations across broader populations. (Dikau & Hatfield 2020)  
 
-As a result multi-national corporations are turning to teams of data scientists within to help source highly competitive skills within hidden pools of talent.
+As a result multi-national corporations are working with teams of data scientists to improve their 'People' processes, such as machine learning to identify an employee's relative skills to the market demand.  This project looks at how data science could help organizations with their commitments to improve with a growing field of HR known as 'Diversity and Inclusion', specifically through targeting hidden pools of talent such as the growing refugee population.
 
 ![](images/Project_overview.png)
 
