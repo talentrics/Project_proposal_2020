@@ -3,7 +3,7 @@ Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
 A recent Deloitte whitepaper presents research into how companies are 'Creating Value and Impact Through the Alternative Workforce', pointing to market shifts such as rapidly developing technology, market globalization and the need for agile workforce strategies as a unique opportunity for businesses to leverage global market changes (Dikau & Hatfield 2020).  In parallel, the growing field of 'People Analytics' suggests that corporations can apply data science to their talent strategy, using data science to improve on people processes.
 
-This proposal looks at how such organizations may use a data driven approach to drive a growing interest in 'Diversity and Inclusion' programs.  Machine learning could be used to help match people who have been forcibly displaced from their homes with current opportunities for employement.  Such an approach has the potential to address business needs to hire highly skilled professionals while also filling a growing social need. (Cousins & Laurie 2019)
+This proposal looks at how organizations can drive 'Diversity and Inclusion' programs by using a data driven approach to match refugee talent with current opportunities for employement.  Such an approach has the potential to address business needs to hire highly skilled professionals while also having a range of social benefits. (Cousins & Laurie 2019)
 
 ![](images/Project_overview.png)
 
