@@ -1,7 +1,9 @@
 # A data based approach to hire diverse refugee talent  
 Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
-Current trends in strategic talent management suggest that businesses who seek to build a diverse workforce need to actively embrace trends in globalization, technology, and a de-centralized workforce.  Research such as Deloitte's whitepaper 'Creating Value and Impact Through the Alternative Workforce' point to these market shifts as opportunity for businesses to optmize performance as well as meet social obligations to provide opportunity to a wider population. (Dikau & Hatfield 2020)  As a result multi-national corporations are turnign to people analytics to help source highly competitive skills within hidden pools of talent.
+Research such as Deloitte's whitepaper 'Creating Value and Impact Through the Alternative Workforce' point to 21st market shifts such as rapidly developing technology, market globalization and the need for agile workforce strategies as strategic imperative for businesses to optmize their performance as well as meet social obligations across broader populations. (Dikau & Hatfield 2020)  
+
+As a result multi-national corporations are turning to teams of data scientists within to help source highly competitive skills within hidden pools of talent.
 
 ![](images/Project_overview.png)
 
