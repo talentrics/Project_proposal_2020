@@ -1,7 +1,7 @@
 # A data based approach to hire diverse refugee talent  
 Author: Daniel Macdonald @talentrics http://www.talentrics.com/
 
-A recent Deloitte whitepaper presents research into how companies are 'Creating Value and Impact Through the Alternative Workforce', pointing to market shifts such as rapidly developing technology, market globalization and the need for agile workforce strategies as a unique opportunity for businesses to leverage global market changes (Dikau & Hatfield 2020).  In parallel, we are witness to a growing field of 'People Analytics', where corporations apply data science to talent strategy, using machine learning to guide decision making for people processes.
+A recent Deloitte whitepaper presents research into how companies are 'Creating Value and Impact Through the Alternative Workforce', pointing to market shifts such as rapidly developing technology, market globalization and the need for agile workforce strategies as a unique opportunity for businesses to leverage global market changes (Dikau & Hatfield 2020).  In parallel, the growing field of 'People Analytics' suggests that corporations can apply data science to their talent strategy, using data science to improve on people processes.
 
 This proposal looks at how such organizations may use data science to help drive a growing need to develop their 'Diversity and Inclusion' programs by hiring people who have been forcibly displaced from their homes.  Such a strategy has the potential to address the business need to hire highly skilled professionals who are committed to work, while also filling a growing social need. (Cousins & Laurie 2019)
 
