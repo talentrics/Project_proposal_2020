@@ -7,7 +7,7 @@ Current trends in strategic talent Management suggest that businesses who seek t
 
 # How would it work?
 
-Similar to a job matching algorithms being used currently, the recommendation is to specifically reference databases that are curated for skilled refugee talent in addition to social media content and open source skills matching programs such as 'OpenSkills'.  Organizations like 'Talent Beyond Boundaries' (https://www.talentbeyondboundaries.org/) or 'Refugee Talent' (https://refugeetalent.com/) have already begun to source candidate information for the purposes of job placement.
+The recommended approach is to use machine learning to match refugee talent against current job listings.  On the talent supply side, data may come from specially curated databases such as the 'Talent Beyond Boundaries' talent catalog, or via available social media feeds.  Talent demand would be referenced via the Thinknum NYSE Jobs Database, and the matching engine would use a Natural Language Processing approach such as the 'OpenSkills Project' from Dataatwork. (links below)
 
 ![](images/Method_scope.png)
 https://www.unhcr.org
@@ -35,3 +35,9 @@ Cousins,S., Lawrie, R. & Nyce, S. Talent Without Boundaries (2019); "The Promise
 https://static1.squarespace.com/static/5dc0262432cd095744bf1bf2/t/5ed20b4cdef8546a019d216b/1590823775767/TBBGRFReport2019.pdf
 
 UNHCR, “Figures at a Glance”, https://www.unhcr.org/en-au/figures-at-a-glance.html
+
+Talent Beyond Boundaries Talent Catalog
+https://www.talentbeyondboundaries.org/the-talent-catalog
+
+OpenSkills Project
+http://dataatwork.org/data/
