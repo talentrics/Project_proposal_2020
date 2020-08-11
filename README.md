@@ -7,8 +7,9 @@ Current trends in strategic talent Management suggest that businesses who seek t
 
 # How would it work?
 
-The recommended approach is to use machine learning to match refugee talent against current job listings.    
-On the talent supply side, data may come from specially curated databases such as the 'Talent Beyond Boundaries' talent catalog, or via available social media feeds.  Talent demand would be referenced via the Thinknum NYSE Jobs Database, and the matching engine would use a Natural Language Processing approach such as the 'OpenSkills Project' from Dataatwork. (links below)
+The recommended approach is to use machine learning and skills ontologies to match refugee talent to current job listings.
+
+The data sources - on the talent supply side, data may come from specially curated databases such as the 'Talent Beyond Boundaries' talent catalog, or via available social media feeds.  Talent demand would be referenced via the Thinknum NYSE Jobs Database, and the matching engine would use a NLP approach such as the 'OpenSkills Project' from Data at work. (links in citations below)
 
 ![](images/Method_scope.png)
 https://www.unhcr.org
