@@ -22,7 +22,7 @@ Statistics on refugee populations from https://www.unhcr.org
 Initial data exploration is presented in the 'Notebooks' folder of this repository: 
 https://github.com/talentrics/Project_proposal_2020/tree/master/Notebooks
 
-The approach would be to use a data source for available job listings to get the core demand.  In this case, I am suggesting the Thinknum data via The Data Incubator program (https://blog.thedataincubator.com/tag/data-sources/). I then look at the API for the OpenSkills Project (http://dataatwork.org/data/) and would look at the related job titles and relevant skills for each job role as defined by the Department of Labor ONet Data Collection Program (https://onet.rti.org/)
+For the proposal, I used the Thinknum data via The Data Incubator program (https://blog.thedataincubator.com/tag/data-sources/) to find open job roles. I then look at the API for the OpenSkills Project (http://dataatwork.org/data/) to determine relevant skills for each specific job role. Below is the example keyword search for 'Cardiovascular Technician' as outlined in ![](Notebooks/Open_Skills_Jobs_API.ipynb)
 
 ![](images/proposed_approach.png)
 
