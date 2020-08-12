@@ -17,9 +17,14 @@ The data sources - on the talent supply side, data may come from specially curat
 Statistics on refugee populations from https://www.unhcr.org
 
 
-# Exploratory Data Analysis & Proof of Concept:
+# Initial Data Exploration:
 
+Initial data exploration is presented in the 'Notebooks' folder of this repository: 
+https://github.com/talentrics/Project_proposal_2020/tree/master/Notebooks
 
+The approach would be to use a data source for available job listings to get the core demand.  In this case, I am suggesting the Thinknum data via The Data Incubator program (https://blog.thedataincubator.com/tag/data-sources/). I then look at the API for the OpenSkills Project (http://dataatwork.org/data/) and would look at the related job titles and relevant skills for each job role as defined by the Department of Labor ONet Data Collection Program (https://onet.rti.org/)
+
+![](images/proposed_approach.png)
 
 # Citations: 
 
