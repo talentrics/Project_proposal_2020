@@ -9,7 +9,7 @@ This proposal looks at how organizations can drive 'Diversity and Inclusion' pro
 
 # How would it work?
 
-The recommended approach is to use machine learning and skills ontologies to match refugee talent to current job listings.
+The recommended approach is to use machine learning and skills ontologies to match refugee talent to job listings.
 
 The data sources - on the talent supply side, data may come from specially curated databases such as the 'Talent Beyond Boundaries' talent catalog, or via available social media feeds.  Talent demand would be referenced via the Thinknum NYSE Jobs Database, and the matching engine would use a NLP approach such as the 'OpenSkills Project' from Data at work. (links to sources in citations below)
 
