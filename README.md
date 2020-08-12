@@ -27,7 +27,7 @@ For the proposal, I used the Thinknum data via [The Data Incubator program](http
 I then look at the API for [The OpenSkills Project](http://dataatwork.org/data/) to determine relevant skills for each specific job role. Below is the example keyword search for 'Cardiovascular Technician' as outlined in [this Python Notebook](https://github.com/talentrics/Project_proposal_2020/blob/master/Notebooks/Open_Skills_Jobs_API.ipynb)
 
 <p align="center">
-  ![](images/proposed_approach.png)/>
+  ![](images/proposed_approach.png)
 </p>
 
 
