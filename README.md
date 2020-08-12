@@ -22,9 +22,12 @@ Statistics on refugee populations from https://www.unhcr.org
 Initial data exploration is presented in the 'Notebooks' folder of this repository: 
 https://github.com/talentrics/Project_proposal_2020/tree/master/Notebooks
 
-For the proposal, I used the Thinknum data via The Data Incubator program (https://blog.thedataincubator.com/tag/data-sources/) to find open job roles. I then look at the API for the OpenSkills Project (http://dataatwork.org/data/) to determine relevant skills for each specific job role. Below is the example keyword search for 'Cardiovascular Technician' as outlined in ![](Notebooks/Open_Skills_Jobs_API.ipynb)
+For the proposal, I used the [Thinknum jobs data](https://blog.thedataincubator.com/tag/data-sources/).  The data is uploaded to Python via csv (~25GB) and then loaded to a SQL lite database due to file size.  An query for 'Cardiovascular Tech' resulted in 128 hits.  The process is outlined in [this Python Notebook](https://github.com/talentrics/Project_proposal_2020/blob/master/Notebooks/datalab_jobs.ipynb).  
+
+I then look at the API for [The OpenSkills Project](http://dataatwork.org/data/) to determine relevant skills for each specific job role. Below is the example keyword search that resulted in the top 10 skills recommended for for 'Cardiovascular Technician'.  The process is outlined in [this Python Notebook](https://github.com/talentrics/Project_proposal_2020/blob/master/Notebooks/Open_Skills_Jobs_API.ipynb)
 
 ![](images/proposed_approach.png)
+
 
 # Citations: 
 
